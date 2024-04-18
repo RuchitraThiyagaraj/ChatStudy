@@ -106,6 +106,11 @@ while True:
     print(s.recv(1024).decode())
     s.send("acknowledgement recived from the server".encode())
 ~~~
+## Output
+![image](https://github.com/RuchitraThiyagaraj/ChatStudy/assets/154776996/f7f9b10f-6ca0-4c0f-abde-41d1d6f0c15d)
+
+![image](https://github.com/RuchitraThiyagaraj/ChatStudy/assets/154776996/045dae7d-73c2-4651-a5d9-efdc632e8e16)
+
 
 ## Result:
 
