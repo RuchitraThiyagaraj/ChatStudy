@@ -76,7 +76,7 @@ Client-server chat applications are foundational to real-time communication over
 ## Program
 # Client
 ~~~
-#Developed by:Ruchitra.1
+#Developed by:Ruchitra.T
 #Register number : 212223110043
 import socket
 s=socket.socket()
